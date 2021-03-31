@@ -1,0 +1,59 @@
+.dalia-nav{
+font-weight: bold;
+}
+
+.navbar-brand {
+    margin-left: 200px;
+}
+.navbar-collapse{
+    margin-left: 300px;
+}
+
+.title{
+    font-weight: bold;
+    margin-bottom: 1px;
+}
+
+.line{
+	border-top: 1px solid #8c8b8b;
+}
+
+.dalia-margin{
+    margin-bottom: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 52px;
+}
+
+.text{
+    margin-bottom: 25px;
+
+}
+
+
+.card {
+    width: 316px;
+    
+}
+
+.my-footer {
+    background-color: grey !important;
+}
+
+.dalia-card {
+    background-color: rgb(224, 106, 106);
+    border: rgb(224, 106, 106);
+}
+
+.margin {
+    margin-bottom: 65px;
+
+}
+
+ .dalia-row{
+    background-color: rgb(224, 106, 106);
+}
+
+.span{
+    color:  rgb(224, 106, 106);
+}
